@@ -1,6 +1,5 @@
-package unit_tests;
+package beverages;
 
-import beverages.*;
 import org.junit.Test;
 
 import static org.hamcrest.CoreMatchers.is;
